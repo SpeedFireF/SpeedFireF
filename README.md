@@ -7,8 +7,9 @@ My name is Damir and I am a **ML engineer** interested in Large Language Models 
 - 🎓 Bachelor 3-rd year student from [Innopolis University](https://innopolis.university/)
 - 🏡 Lives in Innopolis, Russia and Almaty, Kazakhstan
 - 💡 Always open to collaborating and interesting opportunities
+- ⚡ I am interested in LLM and Multimodal LLM projects
 
-Want to know even more? [Feel free to see my portfolio](https://github.com/SpeedFireF/SpeedFireF/blob/main/FinalResume2023.pdf)
+Want to know even more? [Feel free to see my portfolio](https://github.com/SpeedFireF/SpeedFireF/blob/main/Resume2024.pdf)
 
 ## 💼 Skills
 
