@@ -3,8 +3,8 @@
 Hello 👋
 
 My name is Damir and I am a **ML engineer** interested in Large Language Models and Computer Vision tasks. Also I love to participate in different hackathons as captain and ML engineer. Here little "About me":
-- 🏢 I am currently working as a **Data Scientist** at [Innopolis University](https://innopolis.university/)
-- 🎓 Bachelor 3-rd year student from [Innopolis University](https://innopolis.university/)
+- 🏢 I am currently working as a **Data Scientist** at [MTS Digital](https://mts-digital.ru/)
+- 🎓 Bachelor 4-rd year student from [Innopolis University](https://innopolis.university/)
 - 🏡 Lives in Innopolis, Russia and Almaty, Kazakhstan
 - 💡 Always open to collaborating and interesting opportunities
 - ⚡ I am interested in LLM and Multimodal LLM projects
